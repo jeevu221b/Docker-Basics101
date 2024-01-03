@@ -1,1 +1,1 @@
-print("Jeknis build triggered baby!")
+print("Dockerized, baby!")
